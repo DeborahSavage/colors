@@ -65,16 +65,22 @@ footer {
 
   #column-1 {
     background-color: slategrey ;
+
   }
 
   #column-2 {
     background-color: lightblue;
+
   }
 
   #column-3 {
     background-color: dodgerblue;
-  }
+    width: 100%;
 
+  }
+.col-3 {
+  width: 50%;
+}
   footer {
     background-color: grey;
   }
@@ -90,14 +96,21 @@ footer {
 
   #column-1 {
     background-color: pink;
+
   }
 
   #column-2 {
     background-color: yellow;
+
   }
 
   #column-3 {
     background-color: firebrick;
+      width: 33.3%;
+  }
+  .col-3 {
+width: 33.3%;
+
   }
 
   footer {
